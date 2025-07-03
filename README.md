@@ -44,4 +44,7 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 #🎬 Featured YouTube Videos
+
 [![Electricity Billing System || Java project: swing, awt, sql || Full Walkthrough + Demo 💡](https://ytcards.demolab.com/?id=P10g7y3hpFA&title=Electricity Billing System || Java project: swing, awt, sql || Full Walkthrough + Demo 💡&lang=en&timestamp=1636653600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=786 "Electricity Billing System || Java project: swing, awt, sql || Full Walkthrough + Demo 💡"))](https://youtu.be/P10g7y3hpFA?si=jDVmxMHIbDY2wFSw)
+
+[![5 things I wish I knew before studying Computer Science](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=5+things+I+wish+I+knew+before+studying+Computer+Science&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "5 things I wish I knew before studying Computer Science")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
